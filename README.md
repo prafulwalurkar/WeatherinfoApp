@@ -1,2 +1,0 @@
-# WeatherinfoApp
-WeatherInfoApp
